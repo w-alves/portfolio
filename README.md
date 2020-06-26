@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMAGEM AQui" width=70% >
+  <img src="https://i.imgur.com/DdsnrJh.png" width=100% >
 </p>
 
 ## Data Scientist
