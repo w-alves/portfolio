@@ -15,4 +15,6 @@ Descriçao aqui
 
 Projetos aqui
 
+* **Leads recommendation with Nearest Neighbors:** https://bit.ly/30QIncZ
+
 ---
