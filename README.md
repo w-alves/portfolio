@@ -18,5 +18,6 @@ Descriçao aqui
 
   Some companies would like to know who are the other companies in a given market that are most likely to become their next customers. Therefore, this project is about the   development of a product to provide an automated service that recommends leads to a user, given his current list of customers (portfolio).
 
+## Texts:
 
 ---
