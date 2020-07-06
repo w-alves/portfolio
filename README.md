@@ -9,6 +9,7 @@ Descriçao aqui
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/w-alves/)
+* [Medium](https://medium.com/@w.alves)
 
 ## Projects:
 
