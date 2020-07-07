@@ -4,7 +4,7 @@
 
 ## Data Scientist
 
-Computer Science student at UFPE, passionate about Data Science and Machine Learning.
+Computer Science student at Federal University of Pernambuco, passionate about Data Science and Machine Learning.
 
 
 **Links:**
