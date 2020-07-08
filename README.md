@@ -26,7 +26,7 @@ Computer Science student at Federal University of Pernambuco, passionate about D
   In the age of technology, the concern with information security is increasingly latent and one of the sectors that seek to improve fraud prevention is credit cards.  Here, in this project, we will predict a credit card fraud using the dataset creditcardfraud, wich has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection
 ## Texts:
 
-* **[PT-BR] A matemática na computação: derivadas e gradiente descendente** 
+* **[PT-BR] A matemática na computação: derivadas e gradiente descendente:** https://bit.ly/3fa2ves
 
 
 
