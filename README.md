@@ -27,7 +27,7 @@ Computer Science student at Federal University of Pernambuco, passionate about D
 ## Texts:
 
 * **[PT-BR] A matemática na computação: derivadas e gradiente descendente:** https://bit.ly/3fa2ves
-* **[PT-BR] AO futuro da inteligência artificial: human-centered AI:** https://bit.ly/3haMMgd
+* **[PT-BR] O futuro da inteligência artificial: human-centered AI:** https://bit.ly/3haMMgd
 
 
 
