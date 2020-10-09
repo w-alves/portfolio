@@ -13,7 +13,7 @@ Computer Science student at Federal University of Pernambuco, passionate about D
 
 ## Projects:
 
-* **Pneumonia detection in x-ray images with Tensorflow:** https://bit.ly/2Da3kWt
+* **Pneumonia detection in x-ray images with Tensorflow:** https://bit.ly/3ltPj6X
   
   Detecting pneumonia in advance is important, because when you have pneumonia, it is possible for your lungs to fill with fluid. If this happens, they will not be able to transfer enough oxygen into the blood or get rid of carbon dioxide from the blood. It is a serious condition because your organs need oxygen to function. In this sense, in this project we use of deep learning techniques to detect the disease in x-ray chest images.
 
