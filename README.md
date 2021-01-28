@@ -15,7 +15,9 @@ Computer Science student at Federal University of Pernambuco, passionate about D
 
 * **End-to-end data science project with ENEM 2019 data:** https://bit.ly/3oE0dIW
   
-  Project that goes through several stages of data science: understanding of the problem, sampling, manipulation and preparation of data, visualization and exploration of data, hypothesis tests, AutoML with PyCaret, CatBoost algorithm, evaluation metrics for regression, interpretability with SHAP. Here, a hypothetical question has been defined to guide development: _"Hey, I was traveling on the web and find a kind of "brazilian SAT", called ENEM. After read more about it, I was wondering if we can take some insights of the data provided by the test organizers and and perhaps create some solution that will help the students to plan which colleges they want to apply to before they even have the official score. What do you think?"_
+  Project that goes through several stages of data science: understanding of the problem, sampling, manipulation and preparation of data, visualization and exploration of data, hypothesis tests, AutoML with PyCaret, CatBoost algorithm, evaluation metrics for regression, interpretability with SHAP. Here, a hypothetical asked by a CEO question has been defined to guide development:
+  
+  _"Hey, I was traveling on the web and find a kind of "brazilian SAT", called ENEM. After read more about it, I was wondering if we can take some insights of the data provided by the test organizers and and perhaps create some solution that will help the students to plan which colleges they want to apply to before they even have the official score. What do you think?"_
 
 * **Pneumonia detection in x-ray images with Tensorflow:** https://bit.ly/3ltPj6X
   
